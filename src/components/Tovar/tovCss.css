@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cardd:hover .btnn{ 
+    transition: 2s linear;
+    display: block;
+   
+}
